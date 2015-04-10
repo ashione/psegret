@@ -1,0 +1,5 @@
+C:\Users\Intern\Documents\Visual Studio 2013\Projects\Egret1\Egret1\bin\Egret1.dll.config
+C:\Users\Intern\Documents\Visual Studio 2013\Projects\Egret1\Egret1\bin\Egret1.dll
+C:\Users\Intern\Documents\Visual Studio 2013\Projects\Egret1\Egret1\bin\Egret1.pdb
+C:\Users\Intern\Documents\Visual Studio 2013\Projects\Egret1\Egret1\obj\Debug\Egret1.dll
+C:\Users\Intern\Documents\Visual Studio 2013\Projects\Egret1\Egret1\obj\Debug\Egret1.pdb
